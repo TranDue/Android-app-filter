@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chỉnh sửa Filter ảnh</string>
+    <string name="intro">Demo ứng dụng filter ảnh</string>
+    <string name="website">Trần Duệ - Dev quèn</string>
+    <string name="next">Tiếp tục</string>
+    <string name="back">Quay lại</string>
+</resources>
